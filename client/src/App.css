@@ -1,0 +1,83 @@
+.App{
+  margin: 30px;
+  
+}
+
+.rowtrans{
+  display: flex;
+  flex-direction: row;
+}
+
+#updatedis{
+  margin-left: 150px;
+}
+
+.title{
+  margin-bottom: 50px;
+  text-decoration: underline;
+/* text-align: center; */
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.form input{
+  font-size: larger;
+  width: 250px;
+  height: 40px;
+  margin: 20px;
+}
+
+#enterID button{
+  padding: 8px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#enterID{
+  margin-bottom: 20px;
+}
+
+.formBtnSec button{
+  /* width: px; */
+  /* height: 40px; */
+  padding: 15px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.radiobtn input{
+
+  height:25px;
+  width: 70px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+
+.homeBtn button{
+  margin: 20px;
+  height: 40px;
+  width: 80px;
+}
+
+.display div{
+
+  display:  flex;
+ 
+  flex-direction: row;
+  align-items: center;
+  
+  
+}
+
+.display{
+  margin-top: 40px;
+}
+
+.display p{
+  margin-inline-start: 10px;
+}
